@@ -39,3 +39,5 @@ App_Data/
 
 #Solr
 Solr/data
+
+aplication-data/.gitignore
